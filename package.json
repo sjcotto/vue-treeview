@@ -1,6 +1,6 @@
 {
-  "name": "@ll931217/vue-treeview",
-  "version": "0.4.0",
+  "name": "konecta-vue-treeview",
+  "version": "0.4.1",
   "description": "A TreeView component for Vue.js.",
   "files": ["dist"],
   "main": "./dist/vue-treeview.umd.js",
